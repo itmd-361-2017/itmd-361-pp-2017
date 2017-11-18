@@ -18,6 +18,10 @@ body {
   padding: 10%;
 }
 
+button:focus {
+  background-color: yellow;
+}
+
 /* ===== LAYOUT STYLES ===== */
 
 
