@@ -1,6 +1,7 @@
 (function($) {
+  var doorbell = new Audio('media/doorbell.mp3');
+
   function ringDoorbell() {
-    var doorbell = new Audio('media/doorbell.mp3');
     doorbell.play();
   }
 
