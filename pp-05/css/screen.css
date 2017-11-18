@@ -27,5 +27,8 @@ button:focus {
 
 /* ===== MODULAR STYLES ===== */
 
+#status {
+  padding-top: 1em;
+}
 
 /* ===== STATE STYLES ===== */
